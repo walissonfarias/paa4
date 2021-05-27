@@ -8,5 +8,5 @@ Introdução á  Programação Curso em C++ Dr. Alan R. R. de Freitas, Edição
 Algoritmos / Thomas H. Cormen... [et al.] ; [tradução Arlete Simille Marques]. Rio de Janeiro : Elsevier, 2012. il.
 Tradução de: Introduction to algorithms, 3rd ed.
 
-Wikipédia. Merge Sort. https://pt.wikipedia.org/wiki/Merge_sort. Acesso em 05/2021
+Merge Sort. Wikipédia.  https://pt.wikipedia.org/wiki/Merge_sort. Acesso em 05/2021
 
