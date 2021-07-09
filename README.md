@@ -24,7 +24,7 @@ ConvexHull de um conjunto de pontos. Como o seu custo se compara com o algoritmo
 bruta?
 
 
-#Referências dos algoritmos utilizadas:
+# Referências dos algoritmos utilizadas:
 
 Introduction to the design & analysis of algorithms / Anany Levitin. 3rd ed. Tenenbaum, Aaron M.
 
